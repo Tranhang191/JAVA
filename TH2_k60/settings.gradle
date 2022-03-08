@@ -1,0 +1,2 @@
+rootProject.name = "TH2_k60"
+include ':app'

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/menu_add"
+        android:icon="@drawable/icon_add"
+        android:title="add"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/menu_xoa"
+        android:icon="@drawable/icon_xoa"
+        android:title="Xoá"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/menu_sua"
+        android:icon="@drawable/icon_edit"
+        android:title="Sửa"
+        app:showAsAction="always|withText" />
+    <item
+        android:id="@+id/menu_logout"
+        android:icon="@drawable/icon_logoutt"
+        android:title="Sửa"
+        app:showAsAction="always|withText" />
+</menu>

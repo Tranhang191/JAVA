@@ -1,0 +1,2 @@
+rootProject.name = "tranhang"
+include ':app'
